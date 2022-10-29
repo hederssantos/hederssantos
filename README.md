@@ -20,6 +20,11 @@ I'm a Husband, Father, Developer 💻, Photographer 📸, Designer 🎨, and Tea
 - 💞️ Fun fact: I love industrial music sometimes I am DJ and play games...
 ### 🤝 Connect with me:
 
+<a>
+<a href="https://www.linkedin.com/in/hederssantos/"><img align=”left” 
+src="https://raw.githubusercontent.com/hederssantos/hederssantos/5219e6e7cb8b26e57622afd04c483307c8138bf5/linkedin-dark.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+</a>
+
 
 </br>
 
