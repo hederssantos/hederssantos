@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/hederssantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hederssantos/hederssantos/main/profile.gif" alt=”my banner”></a>
+  <a href="https://www.linkedin.com/in/hederssantos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hederssantos/hederssantos/main/Profile_2.gif" alt=”my banner”></a>
 </p>
 
 - 👋 Hi, I’m @hederssantos
