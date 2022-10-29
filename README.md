@@ -74,8 +74,14 @@ src="https://raw.githubusercontent.com/hederssantos/hederssantos/5219e6e7cb8b26e
 ![](https://img.shields.io/badge/Tools-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJIDEA&color=000000)
 ![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logo=AndroidStudio&color=3DDC84)
 
-</br>
 
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=hederssantos&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hederssantos&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hederssantos&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hederssantos&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
