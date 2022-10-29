@@ -1,5 +1,5 @@
-<p align=”center”>
-<img width=”800" height=”200" src="https://raw.githubusercontent.com/hederssantos/hederssantos/main/profile.gif" alt=”my banner”>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hederssantos" target="_blank" rel="noreferrer"><img width=”1200" height=”300" src="https://raw.githubusercontent.com/hederssantos/hederssantos/main/profile.gif" alt=”my banner”></a>
 </p>
 
 - 👋 Hi, I’m @hederssantos
