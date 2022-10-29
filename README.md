@@ -77,8 +77,8 @@ src="https://raw.githubusercontent.com/hederssantos/hederssantos/5219e6e7cb8b26e
 ## 📊GitHub Stats :
 <div align="center">
   <a href="https://github.com/hederssantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hederssantos&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hederssantos&theme=radical&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hederssantos&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hederssantos&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
