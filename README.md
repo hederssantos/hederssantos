@@ -5,6 +5,11 @@
 <h3 align="center">
 Hi there, I'm <a href="[https://www.linkedin.com/in/hederssantos](https://www.linkedin.com/in/hederssantos/)" target="_blank" rel="noreferrer">Heder</a> 👋
 </h3>
+I love the entire process of developing creative. 
+Personally, I seek my spirituality and invest mainly in my relationships in all levels, 
+in my professional career I have extensive experience as a designer and visual projects, 
+I developed advanced skills of leadership and administration, 
+as well as hard skills in systems analysis and development.
 
 <h3 align="left">
 I'm a Husband, Father, Developer 💻, Photographer 📸, Designer 🎨, and Teacher!!
@@ -63,6 +68,10 @@ I'm a Husband, Father, Developer 💻, Photographer 📸, Designer 🎨, and Tea
 ![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=flat&logo=VisualStudioCode&color=5C2D91)
 ![](https://img.shields.io/badge/Tools-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJIDEA&color=000000)
 ![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logo=AndroidStudio&color=3DDC84)
+
+</br>
+
+
 
 
 <!---
