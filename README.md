@@ -1,3 +1,7 @@
+<p align=”center”>
+<img width=”800" height=”200" src="https://raw.githubusercontent.com/hederssantos/hederssantos/main/profile.gif" alt=”my banner”>
+</p>
+
 - 👋 Hi, I’m @hederssantos
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
