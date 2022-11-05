@@ -17,7 +17,7 @@ I'm a Husband, Father, Developer 💻, Photographer 📸, Designer 🎨, and Tea
 
 - 🥅 2022 Goals: Learn more about Cyber Security
 - 🌱 I’m currently learning everything 🤣
-- 💞️ Fun fact: I love industrial music sometimes I am DJ and play games...
+- 💞️ Fun fact: I love industrial music, sometimes I am DJ, and I love PCgames...
 ### 🤝 Connect with me:
 
 <a>
